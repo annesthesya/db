@@ -1,0 +1,77 @@
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 102, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 102, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 103, 501);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 103, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 103, 501);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 105, 501);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 106, 502);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 112, 502);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 112, 502);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 114, 501);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 114, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 121, 500);
+
+insert into dispozitiv 
+values(pk_id_dispozitiv.nextval, 124, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 125, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 126, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 126, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 127, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 129, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 130, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 130, 503);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 130, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 131, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 131, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 131, 500);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 132, 501);
+
+insert into dispozitiv
+values(pk_id_dispozitiv.nextval, 132, 501);

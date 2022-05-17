@@ -1,0 +1,98 @@
+insert into utilizator 
+values(101, 'Mihailescu', 'Adelina', 50, 'ITNCDH', 'mihina', 'adelina.mihailescu@myxmail.com', '2Aa+Xj0Y');
+
+insert into utilizator 
+values(102, 'Stanescu', 'Adina', 28, 'EKYFGW', 'staina', 'adina.stanescu@myxmail.com', '2Qd$Qv1Y');
+
+insert into utilizator 
+values(103, 'Dabija', 'Adriana', 23, 'OZQKWO', 'dabana', 'adriana.dabija@myxmail.com', '9Jo!Fa5P');
+
+insert into utilizator 
+values(104, 'Marin', 'Adela', 53, 'OJJSPN', 'marela', 'adela.marin@myxmail.com', '9Se,Od9Y');
+
+insert into utilizator 
+values(105, 'Stanescu', 'Agnes', 29, 'ZIUOCA', 'stanes', 'agnes.stanescu@myxmail.com', '4Ei.Ma3W');
+
+insert into utilizator 
+values(106, 'Dumitrescu', 'Alina', 38, 'DKYGWQ', 'dumina', 'alina.dumitrescu@myxmail.com', '9Qf#Wb8C');
+
+insert into utilizator 
+values(107, 'Rusu', 'Alexandra', 51, 'RGRULV', 'rusdra', 'alexandra.rusu@myxmail.com', '7Ps#Hk0R');
+
+insert into utilizator 
+values(108, 'Ionescu', 'Ana', 40, 'DTQVBI', 'ionana', 'ana.ionescu@myxmail.com', '7Oe-Ou1O');
+
+insert into utilizator 
+values(109, 'Pop', 'Anastasia', 44, 'YQRDXC', 'popsia', 'anastasia.pop@myxmail.com', '2At&Cy8T');
+
+insert into utilizator 
+values(110, 'Lupu', 'Anisoara', 50, 'MDBBAR', 'lupara', 'anisoara.lupu@myxmail.com', '8Sg+Lc5C');
+
+insert into utilizator 
+values(111, 'Puscasu', 'Ana-Maria', 65, 'CCMGFU', 'pusria', 'ana-maria.puscasu@myxmail.com', '6Cg'Jq5Q');
+
+insert into utilizator 
+values(112, 'Lupu', 'Anca', 56, 'AYJRGG', 'lupnca', 'anca.lupu@myxmail.com', '2Me%Nx5K');
+
+insert into utilizator 
+values(113, 'Ionita', 'Angelica', 33, 'FVOERO', 'ionica', 'angelica.ionita@myxmail.com', '5Wr.Ld3H');
+
+insert into utilizator 
+values(114, 'Iancu', 'Andreea', 49, 'MUCUWR', 'ianeea', 'andreea.iancu@myxmail.com', '8Ii!Go7O');
+
+insert into utilizator 
+values(115, 'Dinescu', 'Andra', 64, 'FTRGME', 'dindra', 'andra.dinescu@myxmail.com', '1Ic"Md5D');
+
+insert into utilizator 
+values(116, 'Barbu', 'Antonia', 29, 'TJXAZJ', 'barnia', 'antonia.barbu@myxmail.com', '2On'Zn6O');
+
+insert into utilizator 
+values(117, 'Muresan', 'Aurora', 53, 'KVNDLS', 'murora', 'aurora.muresan@myxmail.com', '0Zt.Vx3O');
+
+insert into utilizator 
+values(118, 'Tudor', 'Aura', 17, 'ROAWIG', 'tudura', 'aura.tudor@myxmail.com', '2Zr'Hf7P');
+
+insert into utilizator 
+values(119, 'Toma', 'Aurelia', 30, 'NEFTYV', 'tomlia', 'aurelia.toma@myxmail.com', '7Xj&Yl8Y');
+
+insert into utilizator 
+values(120, 'Stan', 'Bogdana', 29, 'HCEHFY', 'staana', 'bogdana.stan@myxmail.com', '3Ja+Mw9A');
+
+insert into utilizator 
+values(121, 'Diaconescu', 'Brandusa', 34, 'ZBXEPU', 'diausa', 'brandusa.diaconescu@myxmail.com', '8El*Dt4D');
+
+insert into utilizator 
+values(122, 'Cristea', 'Bianca', 32, 'SUZVRG', 'crinca', 'bianca.cristea@myxmail.com', '2Oh$Aj9W');
+
+insert into utilizator 
+values(123, 'Stoica', 'Camelia', 35, 'KQLLZC', 'stolia', 'camelia.stoica@myxmail.com', '0Bu/Lu1D');
+
+insert into utilizator 
+values(124, 'Negoita', 'Carina', 37, 'WLYYAL', 'negina', 'carina.negoita@myxmail.com', '1Tp)Ew8L');
+
+insert into utilizator 
+values(125, 'Dima', 'Cezara', 47, 'FGNJAG', 'dimara', 'cezara.dima@myxmail.com', '9Pm"Vr0S');
+
+insert into utilizator 
+values(126, 'Mihailescu', 'Cecilia', 30, 'BUYFKE', 'mihlia', 'cecilia.mihailescu@myxmail.com', '5Fe'Sx4K');
+
+insert into utilizator 
+values(127, 'Teodorescu', 'Crina', 19, 'CPWYWP', 'teoina', 'crina.teodorescu@myxmail.com', '4Am%Mf3E');
+
+insert into utilizator 
+values(128, 'Pop', 'Cosmina', 20, 'KBDJNB', 'popina', 'cosmina.pop@myxmail.com', '8Yz%Kq5W');
+
+insert into utilizator 
+values(129, 'Dumitrescu', 'Codruta', 56, 'MLAVLW', 'dumuta', 'codruta.dumitrescu@myxmail.com', '2Hx*Lk8F');
+
+insert into utilizator 
+values(130, 'Toma', 'Clara', 27, 'DDSYOT', 'tomara', 'clara.toma@myxmail.com', '6Cr/Ly0H');
+
+insert into utilizator 
+values(131, 'Ursu', 'Carmen', 29, 'HYUVUN', 'ursmen', 'carmen.ursu@myxmail.com', '4Pl#Fd9S');
+
+insert into utilizator 
+values(132, 'Munteanu', 'Catalina', 50, 'DBATYZ', 'munina', 'catalina.munteanu@myxmail.com', '3Sx"Hv8O');
+
+insert into utilizator 
+values(133, 'Tomescu', 'Carla', 32, 'FWOJOS', 'tomrla', 'carla.tomescu@myxmail.com', '9Gk/Hy1W');

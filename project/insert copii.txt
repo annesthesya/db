@@ -1,0 +1,119 @@
+insert into copie 
+values(1, 900, 115, 701, 802, 608, 25);
+
+insert into copie values
+(2, 900, 115, 704, 803, 600, 60);
+
+insert into copie values
+(3, 900, 115, 704, 821, 600, 65);
+
+insert into copie values
+(4, 901, 106, 702, 822, 601, 45);
+
+insert into copie values
+(5, 901, 106, 700, 801, 609, 50);
+
+insert into copie values
+(6, 902, 119, 700, 813, 609, 50);
+
+insert into copie values
+(7, 903, 128, 702, 819, 602, 35.5);
+
+insert into copie values
+(8, 904, 127, 701, 805, 606, 45.5);
+
+insert into copie values
+(9, 905, 106, 703, 805, 606, 40);
+
+insert into copie values
+(10, 906, 102, 703, 814, 604, 40);
+
+insert into copie values
+(11, 907, 122, 703, 819, 602, 40);
+
+insert into copie values
+(12, 908, 116, 701, 814, 604, 37.5);
+
+insert into copie values
+(13, 909, 123, 700, 805, 606, 40);
+
+insert into copie values
+(14, 910, 129, 702, 806, 601, 45.5);
+
+insert into copie values
+(15, 911, 102, 703, 808, 602, 40);
+
+insert into copie values
+(16, 911, 102, 704, 803, 600, 30);
+
+insert into copie values
+(17, 912, 113, 703, 806, 601, 50);
+
+insert into copie values
+(18, 913, 103, 701, 812, 607, 42.5);
+
+insert into copie values
+(19, 913, 103, 703, 820, 610, 37.5);
+
+insert into copie values
+(20, 914, 118, 700, 816, 604, 35);
+
+insert into copie values
+(21, 915, 107, 702, 809, 603, 50.5);
+
+insert into copie values
+(22, 916, 130, 701, 802, 608, 25);
+
+insert into copie values
+(23, 916, 130, 703, 810, 602, 40);
+
+insert into copie values
+(24, 917, 111, 702, 806, 601, 45.5);
+
+insert into copie values
+(25, 918, 110, 704, 811, 600, 30);
+
+insert into copie values
+(26, 919, 128, 700, 816, 604, 35);
+
+insert into copie values
+(27, 920, 109, 700, 803, 600, 65);
+
+insert into copie values
+(28, 921, 115, 701, 818, 608, 40);
+
+insert into copie values
+(29, 921, 115, 700, 821, 600, 70);
+
+insert into copie values
+(30, 921, 115, 700, 814, 604, 35);
+
+insert into copie values
+(31, 922, 108, 700, 803, 600, 65);
+
+insert into copie values
+(32, 923, 107, 703, 811, 600, 65.5);
+
+insert into copie values
+(33, 924, 127, 701, 824, 607, 40);
+
+insert into copie values
+(34, 925, 132, 702, 823, 603, 50.5);
+
+insert into copie values
+(35, 925, 132, 704, 821, 600, 30);
+
+insert into copie values
+(36, 925, 132, 700, 814, 604, 35);
+
+insert into copie values
+(37, 926, 127, 702, 819, 602, 35.5);
+
+insert into copie values
+(38, 927, 123, 704, 803, 600, 30);
+
+insert into copie values
+(39, 928, 111, 702, 810, 602, 35.5);
+
+insert into copie values
+(40, 929, 110, 702, 819, 602, 35.5);

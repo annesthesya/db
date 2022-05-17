@@ -1,0 +1,267 @@
+create table UTILIZATOR (
+    id_utilizator int,
+    nume varchar2(25) not null,
+    prenume varchar2(25) not null,
+    varsta int not null,
+    username varchar(25) not null,
+    nickname varchar(25),
+    email varchar2(35) not null,
+    parola varchar2(25) not null
+);
+
+alter table utilizator
+add constraint pk_utilizator primary key(id_utilizator);
+
+alter table utilizator
+add constraint c_varsta_utilizator check(varsta>=14);
+
+alter table utilizator
+add constraint u_username_utilizator unique(username);
+
+alter table utilizator
+add constraint u_email_utilizator unique(email);
+
+create sequence pk_id_utilizator
+start with 100
+increment by 1;
+
+commit;
+
+rollback;
+
+select * from utilizator;
+
+describe utilizator;
+
+drop table utilizator;
+
+insert into utilizator
+values(pk_id_utilizator.nextval, 'Cohen', 'Juan', 78, 'Fathish1943', 'juanny', 'JuanBCohen@rhyta.com','gho4mk');
+
+
+---------------------------------------------------------------------------------------------
+
+
+create table ADRESA(
+    id_adresa int,
+    id_utilizator int not null,
+    tara varchar2(25) not null,
+    judet varchar2(25) not null,
+    oras varchar2(25) not null,
+    strada varchar2(25) not null,
+    numar int not null
+);
+
+alter table adresa
+add constraint pk_adresa primary key(id_adresa);
+
+alter table adresa
+add constraint fk_adresa foreign key(id_utilizator) references utilizator(id_utilizator);
+
+alter table adresa
+add constraint u_adresa unique(id_utilizator);
+
+create sequence pk_id_adresa
+start with 200
+increment by 1;
+
+insert into adresa
+values (pk_id_adresa.nextval, 100, 'Romania','Ilfov','Bucuresti', 'Independentei',30);
+
+select * from adresa;
+
+describe adresa;
+
+drop table adresa;
+
+commit;
+
+rollback;
+
+drop table adrese_tata;
+
+
+---------------------------------------------------------------------------------------------
+
+
+create table PRODUCATOR (
+    id_producator int,
+    nume varchar2(25)
+);
+
+alter table producator
+add constraint pk_producator primary key(id_producator);
+
+alter table producator
+modify nume varchar2(25) not null;
+
+insert into producator
+values (200, 'Mojang');
+
+insert into producator
+values (201, 'Riot Games');
+
+insert into producator
+values (202, 'Electronic Arts');
+
+insert into producator
+values (203, 'Epic Games');
+
+insert into producator
+values (204, 'Valve Corporation');
+
+describe producator;
+
+select * from producator;
+
+commit;
+
+rollback;
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+
+create table LIMBA(
+    id_limba int,
+    denumire varchar2(25)
+    );
+    
+alter table LIMBA
+add constraint pk_limba primary key(id_limba);
+
+alter table LIMBA
+modify denumire varchar(25) not null;
+
+insert into limba
+values (300, 'Romana');
+
+insert into limba
+values (301, 'Engleza');
+
+insert into limba
+values (302, 'Germana');
+
+insert into limba
+values (303, 'Franceza');
+
+insert into limba
+values (304, 'Spaniola');
+
+describe limba;
+
+select * from limba;
+
+commit;
+
+rollback;
+
+
+---------------------------------------------------------------------------------------------
+
+
+create table PLATFORMA(
+    id_platforma int,
+    denumire varchar2(25)
+    );
+    
+alter table platforma 
+add constraint pk_platforma primary key(id_platforma);
+
+alter table platforma
+modify denumire varchar2(25) not null;
+
+insert into platforma
+values (400, 'Calculator');
+
+insert into platforma
+values (401, 'PlayStation 5');
+
+insert into platforma
+values (402, 'PlayStation 4');
+
+insert into platforma
+values (403, 'XBox');
+
+insert into platforma
+values (404, 'Nintendo Switch');
+  
+describe platforma;
+
+select * from platforma;
+
+commit;
+
+rollback;   
+
+
+---------------------------------------------------------------------------------------------
+
+
+create table JOC(
+    id_joc int,
+    id_producator int,
+    nume varchar2(25),
+    gen varchar2(25),
+    rating_varsta int,
+    rating int,
+    versiune int
+    );
+    
+alter table joc
+add constraint pk_joc primary key(id_joc);
+
+alter table joc
+add constraint fk_joc foreign key(id_producator) references producator(id_producator);
+
+alter table joc
+modify id_producator int not null;
+
+alter table joc
+modify nume varchar2(25) not null;
+
+alter table joc
+modify rating_varsta int not null;
+
+alter table joc
+modify versiune int not null;
+
+insert into joc
+values(500,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(501,201,'League of Legends','multiplayer',10,5,215);
+
+insert into joc
+values(502,201,'Valorant','shooter',10,5,215);
+
+insert into joc
+values(503,201,'Legends of Runeterra','sandbox',10,4,215);
+
+insert into joc
+values(504,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(505,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(506,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(507,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(508,200,'Minecraft','sandbox',10,5,215);
+
+insert into joc
+values(509,200,'Minecraft','sandbox',10,5,215);
+
+describe joc;
+
+select * from joc;
+
+commit;
+
+rollback;

@@ -1,0 +1,98 @@
+insert into adresa 
+values(201, 101, 'Romania', 'Ialomiţa', 'Urziceni', 'Aleea Brazilor', '69');
+
+insert into adresa 
+values(202, 102, 'Romania', 'Bistrita-Nasaud', 'Nasaud', 'Aleea Baisoara', '35');
+
+insert into adresa 
+values(203, 103, 'Romania', 'Hunedoara', 'Petrosani', 'Aleea Cetinei', '47');
+
+insert into adresa 
+values(204, 104, 'Romania', 'Constanta', 'Ovidiu', 'Aleea Ghindei', '64');
+
+insert into adresa 
+values(205, 105, 'Romania', 'Hunedoara', 'Uricani', 'Aleea Sf. Capistrano', '46');
+
+insert into adresa 
+values(206, 106, 'Romania', 'Caras-Severin', 'Baile Herculane', 'Aleea Sf. Eugeniu', '85');
+
+insert into adresa 
+values(207, 107, 'Romania', 'Giurgiu', 'Giurgiu', 'Aleea Stejarilor', '96');
+
+insert into adresa 
+values(208, 108, 'Romania', 'Botosani', 'Flamanzi', 'Bulevardul 1 Decembrie 1918', '94');
+
+insert into adresa 
+values(209, 109, 'Romania', 'Prahova', 'Mizil', 'Bulevardul 6 Martie', '48');
+
+insert into adresa 
+values(210, 110, 'Romania', 'Tulcea', 'Sulina', 'Bulevardul Ferdinand I', '50');
+
+insert into adresa 
+values(211, 111, 'Romania', 'Mehedinti', 'Baia de Arama', 'Bulevardul Horea', '27');
+
+insert into adresa 
+values(212, 112, 'Romania', 'Timis', 'Timisoara', 'Bulevardul Republicii', '79');
+
+insert into adresa 
+values(213, 113, 'Romania', 'Valcea', 'Ramnicu Valcea', 'Bulevardul Revolutiei 1989', '54');
+
+insert into adresa 
+values(214, 114, 'Romania', 'Vaslui', 'Murgeni', 'Bulevardul Transilvaniei', '82');
+
+insert into adresa 
+values(215, 115, 'Romania', 'Olt', 'Caracal', 'Bulevardul Victoriei', '78');
+
+insert into adresa 
+values(216, 116, 'Romania', 'Brasov', 'Brasov', 'Bulevardul Încoronarii', '77');
+
+insert into adresa 
+values(217, 117, 'Romania', 'Suceava', 'Radauti', 'Calea Ciugudului', '92');
+
+insert into adresa 
+values(218, 118, 'Romania', 'Suceava', 'Vatra Dornei', 'Calea Motilor', '10');
+
+insert into adresa 
+values(219, 119, 'Romania', 'Caras-Severin', 'Bocsa', 'Piata 1 Mai', '96');
+
+insert into adresa 
+values(220, 120, 'Romania', 'Suceava', 'Brosteni', 'Piata Consiliul Europei', '96');
+
+insert into adresa 
+values(221, 121, 'Romania', 'Suceava', 'Radauti', 'Piata Ion I. C. Bratianu', '92');
+
+insert into adresa 
+values(222, 122, 'Romania', 'Bihor', 'stei ', 'Piata Iuliu Maniu', '40');
+
+insert into adresa 
+values(223, 123, 'Romania', 'Ialomita', 'Amara', 'Piata Natiunii', '33');
+
+insert into adresa 
+values(224, 124, 'Romania', 'Suceava', 'Suceava', 'Piata Tricolorului', '50');
+
+insert into adresa 
+values(225, 125, 'Romania', 'Sibiu', 'Saliste', 'Piata Unirii', '57');
+
+insert into adresa 
+values(226, 126, 'Romania', 'Bucuresti', 'Sector 2', 'Strada 1 Decembrie 1918', '91');
+
+insert into adresa 
+values(227, 127, 'Romania', 'Buzau', 'Buzau', 'Strada 11 Iunie', '59');
+
+insert into adresa 
+values(228, 128, 'Romania', 'Gorj', 'Tismana', 'Strada 23 August', '89');
+
+insert into adresa 
+values(229, 129, 'Romania', 'Timis', 'Buzias', 'Strada 30 Decembrie', '85');
+
+insert into adresa 
+values(230, 130, 'Romania', 'Harghita', 'Odorheiu Secuiesc', 'Strada 7 Noiembrie', '92');
+
+insert into adresa 
+values(231, 131, 'Romania', 'Sibiu', 'Medias', 'Strada 9 Mai', '31');
+
+insert into adresa 
+values(232, 132, 'Romania', 'Tulcea', 'Tulcea', 'Strada Abrudului', '12');
+
+insert into adresa 
+values(233, 133, 'Romania', 'Sibiu', 'Dumbraveni', 'Strada Adrian Paunescu', '78');

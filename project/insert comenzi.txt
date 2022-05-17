@@ -1,0 +1,89 @@
+insert into comanda 
+values(900, 115, 150, 3, 'card',  timestamp '2021-1-12 18:36:2');
+
+insert into comanda 
+values(901, 106, 95, 2, 'card',  timestamp ' 2021-1-13 12:14:33');
+
+insert into comanda 
+values(902, 119, 50, 1, 'cash',  timestamp ' 2021-2-15 13:11:35');
+
+insert into comanda 
+values(903, 128, 35.5, 1, 'cash',  timestamp ' 2021-2-23 19:3:19');
+
+insert into comanda 
+values(904, 127, 45.5, 1, 'card',  timestamp ' 2021-3-24 22:1:22');
+
+insert into comanda 
+values(905, 106, 40, 1, 'cash',  timestamp ' 2021-5-2 4:42:40');
+
+insert into comanda 
+values(906, 102, 40, 1, 'cash',  timestamp ' 2021-2-6 7:8:32');
+
+insert into comanda 
+values(907, 122, 40, 1, 'card',  timestamp ' 2021-5-12 1:51:44');
+
+insert into comanda 
+values(908, 116, 37.5, 1, 'card',  timestamp ' 2021-2-15 18:54:48');
+
+insert into comanda 
+values(909, 123, 40, 1, 'cash',  timestamp ' 2021-1-7 18:52:24');
+
+insert into comanda 
+values(910, 129, 45.5, 1, 'card',  timestamp ' 2021-1-26 11:56:12');
+
+insert into comanda 
+values(911, 102, 70, 2, 'cash',  timestamp ' 2021-3-6 20:22:49');
+
+insert into comanda 
+values(912, 113, 50, 1, 'cash',  timestamp ' 2021-1-21 11:38:45');
+
+insert into comanda 
+values(913, 103, 80, 2, 'card',  timestamp ' 2021-4-11 16:55:23');
+
+insert into comanda 
+values(914, 118, 35, 1, 'cash',  timestamp ' 2021-3-3 23:22:10');
+
+insert into comanda 
+values(915, 107, 50.5, 1, 'card',  timestamp ' 2021-5-19 20:34:32');
+
+insert into comanda 
+values(916, 130, 65, 2, 'card',  timestamp ' 2021-3-28 11:37:19');
+
+insert into comanda 
+values(917, 111, 45.5, 1, 'card',  timestamp ' 2021-4-13 7:46:2');
+
+insert into comanda 
+values(918, 110, 30, 1, 'cash',  timestamp ' 2021-1-22 22:22:45');
+
+insert into comanda 
+values(919, 128, 35, 1, 'card',  timestamp ' 2021-4-5 2:11:6');
+
+insert into comanda 
+values(920, 109, 65, 1, 'cash',  timestamp ' 2021-5-23 9:19:48');
+
+insert into comanda 
+values(921, 115, 145, 3, 'card',  timestamp ' 2021-2-17 13:7:51');
+
+insert into comanda 
+values(922, 108, 65, 1, 'cash',  timestamp ' 2021-2-8 21:13:58');
+
+insert into comanda 
+values(923, 107, 65.5, 1, 'card',  timestamp ' 2021-4-18 22:52:55');
+
+insert into comanda 
+values(924, 127, 40, 1, 'card',  timestamp ' 2021-1-27 7:24:3');
+
+insert into comanda 
+values(925, 132, 115.5, 3, 'card',  timestamp ' 2021-1-11 20:8:13');
+
+insert into comanda 
+values(926, 127, 35.5, 1, 'cash',  timestamp ' 2021-1-27 17:8:49');
+
+insert into comanda 
+values(927, 123, 30, 1, 'card',  timestamp ' 2021-4-22 14:31:1');
+
+insert into comanda 
+values(928, 111, 35.5, 1, 'cash',  timestamp ' 2021-1-28 3:30:18');
+
+insert into comanda 
+values(929, 110, 35.5, 1, 'cash',  timestamp ' 2021-5-3 18:29:29');

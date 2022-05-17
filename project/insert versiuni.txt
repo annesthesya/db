@@ -1,0 +1,74 @@
+insert into versiune 
+values(800, 608, 303, 500, date '2020-4-25');
+
+insert into versiune 
+values(801, 609, 304, 500, date '2017-9-6');
+
+insert into versiune 
+values(802, 608, 303, 500, date '2015-4-16');
+
+insert into versiune 
+values(803, 600, 301, 501, date '2015-7-20');
+
+insert into versiune 
+values(804, 603, 301, 504, date '2020-10-5');
+
+insert into versiune 
+values(805, 606, 301, 503, date '2019-5-13');
+
+insert into versiune 
+values(806, 601, 301, 500, date '2019-7-26');
+
+insert into versiune 
+values(807, 608, 304, 502, date '2020-5-13');
+
+insert into versiune 
+values(808, 602, 300, 500, date '2017-12-19');
+
+insert into versiune 
+values(809, 603, 302, 503, date '2019-1-11');
+
+insert into versiune 
+values(810, 602, 304, 502, date '2020-1-13');
+
+insert into versiune 
+values(811, 600, 303, 502, date '2017-9-4');
+
+insert into versiune 
+values(812, 607, 301, 502, date '2016-3-16');
+
+insert into versiune 
+values(813, 609, 304, 501, date '2017-11-9');
+
+insert into versiune 
+values(814, 604, 302, 504, date '2015-7-25');
+
+insert into versiune 
+values(815, 608, 302, 501, date '2020-4-16');
+
+insert into versiune 
+values(816, 604, 300, 504, date '2018-6-3');
+
+insert into versiune 
+values(817, 607, 303, 503, date '2018-8-13');
+
+insert into versiune 
+values(818, 608, 304, 503, date '2015-2-3');
+
+insert into versiune 
+values(819, 602, 301, 502, date '2017-12-22');
+
+insert into versiune 
+values(820, 610, 302, 503, date '2019-6-12');
+
+insert into versiune 
+values(821, 600, 301, 500, date '2020-1-22');
+
+insert into versiune 
+values(822, 601, 304, 503, date '2019-12-13');
+
+insert into versiune 
+values(823, 603, 302, 504, date '2016-9-6');
+
+insert into versiune 
+values(824, 607, 301, 500, date '2019-6-7');

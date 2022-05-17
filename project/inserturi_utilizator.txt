@@ -1,0 +1,56 @@
+--insert into utilizator
+--values(101, 'Tsai', 'Shuang', 43, 'Thiced', 'shu', 'ShuangTsai@teleworm.us');
+--
+--insert into utilizator
+--values(102, 'Xiao', 'Hong Tsao', 22, 'thelint', null, 'XiaoHongTsao@armyspy.com');
+--
+--insert into utilizator
+--values(103, 'Lander', 'Marie', 23, 'Ustriblike', 'Marie', 'MarieJLander@teleworm.us');
+--
+--insert into utilizator
+--values(104, 'Wilburn', 'William', 55, 'Wasis1957', 'will', 'WilliamWilburn@dayrep.com');
+--
+--insert into utilizator
+--values(105, 'Lee', 'Bradley', 19, 'thableadless', 'Brad!', 'BradleyDDavis@teleworm.us');
+--
+--insert into utilizator
+--values(106, 'Hirvonen', 'Einojuhani', 40, 'oldn1970', null, 'EinojuhaniHirvonen@armyspy.com');
+--
+--insert into utilizator
+--values(107, 'Murphy', 'Kian', 23, 'Catnoodle', 'ki', 'kianm@teleworm.us');
+--
+--insert into utilizator
+--values(108, 'Norton', 'Chaz', 21, 'Scuttlebuns', 'chaz', 'nort00@armyspy.us');
+--
+--insert into utilizator
+--values(109, 'Tyshawn', 'Alyssa', 35, 'MilqueBiscuit', null, 'tytyaly@teleworm.us');
+--
+--insert into utilizator
+--values(110, 'Keegan ', 'Valenzuela', 31, 'Phantonemesis', 'val', 'valenzuelakeegan@dayrep.us');
+--
+--insert into utilizator
+--values(111, 'Pope', 'Griffin', 32, 'SashayToStay', 'grif', 'grifgrifpope@teleworm.us');
+--
+--insert into utilizator
+--values(112, 'Mack', 'Alana', 24, 'Whirligoof', 'macka', 'mackala@teleworm.us');
+--
+--insert into utilizator
+--values(113, 'Casey', 'Rhett', 25, 'Slamboozle', 'rhettie', 'casrhett@teleworm.us');
+--
+--insert into utilizator
+--values(114, 'Haas', 'Amber', 38, 'Ambrosaur', 'Amber<3', 'haamber@armyspy.us');
+--
+--insert into utilizator
+--values(115, 'Shea', 'Joaquin', 41, 'Afishionado', 'JoJo', 'joaquinshea@dayrep.us');
+--
+--insert into utilizator
+--values(116, 'Obrien', 'Cherish', 26, 'GobbeldyGator', 'Cher', 'cherobrien@teleworm.us');
+--
+--insert into utilizator
+--values(117, 'Dorsey', 'Lailah', 41, 'BlabberCrab', null, 'lailahdor@armyspy.us');
+--
+--insert into utilizator
+--values(118, 'Cherry', 'Adyson', 31, 'Kittenkerfuffle', 'Ady', 'kittenk@armyspy.us');
+--
+--insert into utilizator
+--values(119, 'Kane', 'Aarav', 18, 'crispykane', 'Aarav', 'kaaravne@dayrep.us');
